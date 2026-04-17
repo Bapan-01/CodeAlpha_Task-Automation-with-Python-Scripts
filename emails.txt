@@ -1,0 +1,4 @@
+first.last+tag@sub.domain.org
+jane.smith@domain.co.uk
+john.doe@example.com
+support@mycompany.net

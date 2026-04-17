@@ -1,0 +1,8 @@
+Here is some mixed content text!
+We have John's email: john.doe@example.com
+And Jane's email: JANE.SMITH@DOMAIN.CO.UK (wait, this is uppercase!)
+Also some invalid ones like user@domain and @test.com.
+Let's add another valid one: support@MYCOMPANY.net
+And wait, John's email again: john.doe@example.com
+Oh, and here is a complex one: first.last+tag@sub.domain.org!
+Have a good day.
